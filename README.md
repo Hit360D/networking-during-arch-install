@@ -14,7 +14,9 @@ The following creates a hostname file and adds your hostname to it.
 
 Add the following content to the new hosts file. You can use your prefered editor.
 
-127.0.0.1 localhost  ::1 localhost  127.0.1.1 [your-hostname]
+> 127.0.0.1 localhost
+> ::1 localhost
+> 127.0.1.1 [your-hostname]
 
 ## Enable Dynamic Host Configuration Protocol (DHCP)
 
